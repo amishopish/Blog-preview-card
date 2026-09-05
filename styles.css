@@ -26,10 +26,13 @@ body{
 
 .card-body{
     background-color: var(--card-color);
-    width: 20%;
-    height: 35%;
+    width: 290px;
+    height: 375px;
     border-radius: 5%;
-    margin: 0 auto;
+    margin: 100px auto;
+    box-shadow: 0.5rem 0.5rem var(--heading-color)
+}
 
-
+.illustration{
+    width: 100%;
 }
