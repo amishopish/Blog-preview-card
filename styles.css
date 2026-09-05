@@ -19,3 +19,17 @@
     --text-color: hsl(0, 0%, 42%);
 }
 
+body{
+    background-color: var(--background-color);
+
+}
+
+.card-body{
+    background-color: var(--card-color);
+    width: 20%;
+    height: 35%;
+    border-radius: 5%;
+    margin: 0 auto;
+
+
+}
